@@ -7,5 +7,8 @@ public class FirstTask {
             System.out.println("Buy!");
         for(int i =0; i<8; i++)
             System.out.println("Buy!");
+        for(int i =0; i<8; i++)
+            System.out.println("Buy!");
+
     }
 }
